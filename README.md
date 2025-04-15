@@ -58,8 +58,8 @@ Menjalankan Server
 ./manage.py runserver
 ```
 
-Server akan berjalan di http://127.0.0.1:8000/
-Halaman admin akan berjalan di http://127.0.0.1:8000/admin
+- Server akan berjalan di http://127.0.0.1:8000/
+- Halaman admin akan berjalan di http://127.0.0.1:8000/admin
 
 ### Source
 - [Django Start](https://python-guide.devscale.id/django/start)
